@@ -2,7 +2,9 @@
 
 Practice using directives, lazy-loading, binding, loops, string interpolation and conditional rendering in Vue.js.
 
-> My Vue.js project
+![Settings Window](./src/assets/form.png)
+
+![Settings Window](./src/assets/feedback.png)
 
 ## Build Setup
 
